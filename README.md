@@ -39,9 +39,13 @@
 **直接使用npm安装依赖：**
 
 ```
-npm install baidu-aip-sdk
+npm install 
 ```
+**运行**
+```javascript
+node app.js
 
+```
 # 详细使用文档
 
 参考[百度AI开放平台官方文档](http://ai.baidu.com/docs)
